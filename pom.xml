@@ -17,5 +17,4 @@
         <module>maven-dao</module>
         <module>maven-web</module>
     </modules>
-
 </project>
